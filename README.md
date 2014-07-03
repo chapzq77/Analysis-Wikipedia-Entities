@@ -1,7 +1,7 @@
-ASSIGNMENT 4: ANALYSIS OF ENTITIES ON WIKIPEDIA INFOBOXES
-=========================================================
+ANALYSIS OF ENTITIES ON WIKIPEDIA INFOBOXES
+This is done as an assignment for the course Web Mining at IIIT Hyderabad
+=========================================================================
 
-Due to the scarcity of space on machine and the constraint on time, I have run my code only on the sample file of the Wikipedia dump. I intend to run the code on the entire Wikipedia dump eventually.
 
 The format of each <entity-type>.txt is as follows.
 There is one line per attribute. Each line contains the following fields separated by a tab.
