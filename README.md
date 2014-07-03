@@ -1,7 +1,6 @@
 ANALYSIS OF ENTITIES ON WIKIPEDIA INFOBOXES
-This is done as an assignment for the course Web Mining at IIIT Hyderabad
 =========================================================================
-
+This is done as an assignment for the course Web Mining at IIIT Hyderabad
 
 The format of each <entity-type>.txt is as follows.
 There is one line per attribute. Each line contains the following fields separated by a tab.
